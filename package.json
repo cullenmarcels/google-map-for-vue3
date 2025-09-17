@@ -1,0 +1,25 @@
+{
+  "name": "google-map-for-vue3",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "GoogleMap Web Components For Vue3.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@googlemaps/js-api-loader": "^1.16.2",
+    "@googlemaps/markerclusterer": "^2.4.0",
+    "vite-plugin-dts": "^4.5.4",
+    "vue": "^3.5.18"
+  },
+  "devDependencies": {
+    "@types/node": "^24.5.0",
+    "@vitejs/plugin-vue": "^6.0.1",
+    "@vue/tsconfig": "^0.7.0",
+    "typescript": "~5.8.3",
+    "vite": "^7.1.2",
+    "vue-tsc": "^3.0.5"
+  }
+}
