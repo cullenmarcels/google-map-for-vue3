@@ -404,6 +404,10 @@ FodyWeavers.xsd
 !.vscode/extensions.json
 !.vscode/*.code-snippets
 
+# webstorm files for those working on multiple tools
+.idea/*
+.DS_Store
+
 # Local History for Visual Studio Code
 .history/
 

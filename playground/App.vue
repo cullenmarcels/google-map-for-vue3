@@ -6,7 +6,7 @@ import GoogleAdvanceMarker from "@/components/GoogleAdvanceMarker.vue";
 <template>
   <div class="google-map">
     <GoogleMap
-        api-key="AIzaSyDGNKJhUV9bRrKH_4SeyCf4hr3KJa6_xd4"
+        api-key="AIzaSyBgEJE7lDJxcrrukk4-8BcVc6AqpiO5T8s"
         map-id="867abe83a2101fad"
         :center="{ lat: 25.033964, lng: 121.564468 }"
         :zoom="12"
